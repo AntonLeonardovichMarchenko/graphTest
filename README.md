@@ -1,2 +1,0 @@
-# AntonLeonardovichMarchenko
- graphTest1
